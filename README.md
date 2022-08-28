@@ -1,4 +1,4 @@
-Please view by visiting: https://macta-gateway.herokuapp.com/
+Please view by visiting: https://mac-ta-gateway.vercel.app
 
 To run on your own computer:
 1. Download / Clone
